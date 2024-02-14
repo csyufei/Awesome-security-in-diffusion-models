@@ -1,2 +1,64 @@
-# Awesome-concept-erasure
-concept-erasure
+# Awesome concept erasure in T2I models
+
+**Safe Latent Diffusion: Mitigating Inappropriate Degeneration in Diffusion Models**\
+[[CVPR 2023](https://arxiv.org/abs/2211.05105)] 
+[[Code](https://github.com/ml-research/safe-latent-diffusion)]
+
+**Ablating Concepts in Text-to-Image Diffusion Models** \
+[[ICCV 2023](https://arxiv.org/abs/2303.13516)] 
+[[Project](https://www.cs.cmu.edu/~concept-ablation/)] 
+[[Code](https://github.com/nupurkmr9/concept-ablation)]
+
+**Erasing Concepts from Diffusion Models** \
+[[ICCV 2023](https://arxiv.org/abs/2303.07345)] 
+[[Project](https://erasing.baulab.info/)] 
+[[Code](https://github.com/rohitgandikota/erasing)]
+
+**Forget-Me-Not: Learning to Forget in Text-to-Image Diffusion Models** \
+[[arxiv](https://arxiv.org/abs/2303.17591)] 
+[[Code](https://github.com/SHI-Labs/Forget-Me-Not)]
+
+**Inst-Inpaint: Instructing to Remove Objects with Diffusion Models** \
+[[arxiv](https://arxiv.org/abs/2304.03246)] 
+[[Project](http://instinpaint.abyildirim.com/)] 
+[[Code](https://github.com/abyildirim/inst-inpaint)]
+
+**Selective Amnesia: A Continual Learning Approach to Forgetting in Deep Generative Models** \
+[[arxiv](https://arxiv.org/abs/2305.10120)] 
+[[Code](https://github.com/clear-nus/selective-amnesia)]
+
+**Towards Safe Self-Distillation of Internet-Scale Text-to-Image Diffusion Models** \
+[[ICML 2023 workshop](https://arxiv.org/abs/2307.05977v1)] 
+[[Code](https://github.com/nannullna/safe-diffusion)]
+
+**Unified Concept Editing in Diffusion Models** \
+[[WACV 2024](https://arxiv.org/abs/2308.14761)] 
+[[Project](https://unified.baulab.info/)] 
+[[Code](https://github.com/rohitgandikota/unified-concept-editing)]
+
+**Implicit Concept Removal of Diffusion Models** \
+[[arxiv](https://arxiv.org/abs/2310.05873)] 
+[[video](https://www.techbeat.net/talk-info?id=847)]
+
+**To Generate or Not? Safety-Driven Unlearned Diffusion Models Are Still Easy To Generate Unsafe Images ... For Now**\
+[[arxiv](https://arxiv.org/abs/2310.11868)] 
+
+**Receler: Reliable Concept Erasing of Text-to-Image Diffusion Models via Lightweight Erasers** \
+[[arxiv](https://arxiv.org/abs/2311.17717)] 
+
+**All but One: Surgical Concept Erasing with Model Preservation in Text-to-Image Diffusion Models** \
+[[arxiv](https://arxiv.org/abs/2312.12807)] 
+
+**One-dimensional Adapter to Rule Them All: Concepts, Diffusion Models and Erasing Applications** \
+[[arxiv](https://arxiv.org/abs/2312.16145)] 
+[[Project](https://lyumengyao.github.io/projects/spm)] 
+[[Code](https://github.com/Con6924/SPM)]
+
+**EraseDiff: Erasing Data Influence in Diffusion Models** \
+[[arxiv](https://arxiv.org/abs/2401.05779)] 
+
+**Separable Multi-Concept Erasure from Diffusion Models** \
+[[arxiv](https://arxiv.org/abs/2402.05947)] 
+[[Code](https://github.com/Dlut-lab-zmn/SepCE4MU)]
+
+I will update periodically...
