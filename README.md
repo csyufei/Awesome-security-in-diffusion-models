@@ -85,6 +85,9 @@
 **Universal Prompt Optimizer for Safe Text-to-Image Generation** \
 [[arxiv](https://arxiv.org/abs/2402.10882)] 
 
+**Circumventing Concept Erasure Methods For Text-to-Image Generative Models** \
+[[ICLR 2024](https://arxiv.org/abs/2308.01508)] 
+
 ## concept debiasing
 
 **Instructing Text-to-Image Generation Models on Fairness** \
