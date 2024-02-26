@@ -81,5 +81,12 @@
 
 ## concept debiasing
 
+**Instructing Text-to-Image Generation Models on Fairness** \
+[[arxiv](https://arxiv.org/abs/2302.10893)] 
+[[Code](https://github.com/ml-research/Fair-Diffusion)]
+
+**Fair Text-to-Image Diffusion via Fair Mapping** \
+[[arxiv](https://arxiv.org/abs/2311.17695)] 
+
 
 I will update periodically...
