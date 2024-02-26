@@ -87,6 +87,7 @@
 
 **Circumventing Concept Erasure Methods For Text-to-Image Generative Models** \
 [[ICLR 2024](https://arxiv.org/abs/2308.01508)] 
+[[Code](https://github.com/nyu-dice-lab/circumventing-concept-erasure)]
 
 ## concept debiasing
 
