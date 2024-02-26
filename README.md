@@ -79,14 +79,24 @@
 [[arxiv](https://arxiv.org/abs/2402.11846)] 
 [[Code](https://github.com/OPTML-Group/UnlearnCanvas)]
 
+**Self-Discovering Interpretable Diffusion Latent Directions for Responsible Text-to-Image Generation** \
+[[arxiv](https://arxiv.org/abs/2311.17216)] 
+
 ## concept debiasing
 
 **Instructing Text-to-Image Generation Models on Fairness** \
 [[arxiv](https://arxiv.org/abs/2302.10893)] 
 [[Code](https://github.com/ml-research/Fair-Diffusion)]
 
+**Debiasing Pretrained Generative Models by Uniformly Sampling Semantic Attributes** \
+[[NIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/file/8d7060b2ee6ff728692398783e3d59d1-Paper-Conference.pdf)] 
+
 **Fair Text-to-Image Diffusion via Fair Mapping** \
 [[arxiv](https://arxiv.org/abs/2311.17695)] 
+
+**Finetuning Text-to-Image Diffusion Models for Fairness** \
+[[ICLR 2024](https://arxiv.org/abs/2311.07604)]
+[[Code](https://github.com/sail-sg/finetune-fair-diffusion)]
 
 
 I will update periodically...
