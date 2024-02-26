@@ -94,7 +94,7 @@
 **Debiasing Pretrained Generative Models by Uniformly Sampling Semantic Attributes** \
 [[NIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/file/8d7060b2ee6ff728692398783e3d59d1-Paper-Conference.pdf)] 
 
-**Discovering and Mitigating Biases in CLIP-based Image Editing** \
+**De-stereotyping Text-to-image Models through Prompt Tuning** \
 [[ICMLW 2023](https://openreview.net/pdf?id=yNyywJln2R)]
 
 **Stable Bias: Evaluating Societal Representations in Diffusion Models** \
