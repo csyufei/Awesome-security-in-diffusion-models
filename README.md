@@ -1,5 +1,11 @@
 # Awesome concept erasure in T2I models
 
+
+- [concept erasure](#remove-concept)
+- [concept debiasing](#remove-concept)
+
+## concept erasure
+
 **Safe Latent Diffusion: Mitigating Inappropriate Degeneration in Diffusion Models**\
 [[CVPR 2023](https://arxiv.org/abs/2211.05105)] 
 [[Code](https://github.com/ml-research/safe-latent-diffusion)]
@@ -72,5 +78,8 @@
 **UnlearnCanvas: A Stylized Image Dataset to Benchmark Machine Unlearning for Diffusion Models** \
 [[arxiv](https://arxiv.org/abs/2402.11846)] 
 [[Code](https://github.com/OPTML-Group/UnlearnCanvas)]
+
+## concept debiasing
+
 
 I will update periodically...
