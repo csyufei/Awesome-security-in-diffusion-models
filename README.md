@@ -80,7 +80,10 @@
 [[Code](https://github.com/OPTML-Group/UnlearnCanvas)]
 
 **Self-Discovering Interpretable Diffusion Latent Directions for Responsible Text-to-Image Generation** \
-[[arxiv](https://arxiv.org/abs/2311.17216)] 
+[[arxiv](https://arxiv.org/abs/2311.17216)]
+
+**Universal Prompt Optimizer for Safe Text-to-Image Generation** \
+[[arxiv](https://arxiv.org/abs/2402.10882)] 
 
 ## concept debiasing
 
@@ -91,12 +94,27 @@
 **Debiasing Pretrained Generative Models by Uniformly Sampling Semantic Attributes** \
 [[NIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/file/8d7060b2ee6ff728692398783e3d59d1-Paper-Conference.pdf)] 
 
-**Fair Text-to-Image Diffusion via Fair Mapping** \
-[[arxiv](https://arxiv.org/abs/2311.17695)] 
+**Discovering and Mitigating Biases in CLIP-based Image Editing** \
+[[ICMLW 2023](https://openreview.net/pdf?id=yNyywJln2R)]
+
+**Stable Bias: Evaluating Societal Representations in Diffusion Models** \
+[[arxiv](https://arxiv.org/abs/2303.11408)]
+
+**Debiasing Vision-Language Models via Biased Prompts** \
+[[arxiv](https://arxiv.org/abs/2302.00070)]
+[[Code](https://github.com/chingyaoc/debias_vl)]
+
+**Discovering and Mitigating Biases in CLIP-based Image Editing** \
+[[WACV 2024](https://openaccess.thecvf.com/content/WACV2024/papers/Tanjim_Discovering_and_Mitigating_Biases_in_CLIP-Based_Image_Editing_WACV_2024_paper.pdf)]
 
 **Finetuning Text-to-Image Diffusion Models for Fairness** \
 [[ICLR 2024](https://arxiv.org/abs/2311.07604)]
 [[Code](https://github.com/sail-sg/finetune-fair-diffusion)]
+
+**Fair Text-to-Image Diffusion via Fair Mapping** \
+[[arxiv](https://arxiv.org/abs/2311.17695)] 
+
+
 
 
 I will update periodically...
