@@ -1,8 +1,8 @@
 # Awesome concept erasure in T2I models
 
 
-- [concept erasure](#remove-concept)
-- [concept debiasing](#remove-concept)
+- [concept erasure](#concept-erasure)
+- [concept debiasing](#concept-debiasing)
 
 ## concept erasure
 
