@@ -15,6 +15,10 @@
 [[Project](https://www.cs.cmu.edu/~concept-ablation/)] 
 [[Code](https://github.com/nupurkmr9/concept-ablation)]
 
+**Rickrolling the Artist: Injecting Backdoors into Text Encoders for Text-to-Image Synthesis** \
+[[ICCV 2023](https://arxiv.org/abs/2211.02408)] 
+[[Code](https://github.com/LukasStruppek/Rickrolling-the-Artist)]
+
 **Erasing Concepts from Diffusion Models** \
 [[ICCV 2023](https://arxiv.org/abs/2303.07345)] 
 [[Project](https://erasing.baulab.info/)] 
