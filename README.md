@@ -111,6 +111,11 @@
 **Discovering and Mitigating Biases in CLIP-based Image Editing** \
 [[WACV 2024](https://openaccess.thecvf.com/content/WACV2024/papers/Tanjim_Discovering_and_Mitigating_Biases_in_CLIP-Based_Image_Editing_WACV_2024_paper.pdf)]
 
+**Unified Concept Editing in Diffusion Models** \
+[[WACV 2024](https://arxiv.org/abs/2308.14761)] 
+[[Project](https://unified.baulab.info/)] 
+[[Code](https://github.com/rohitgandikota/unified-concept-editing)]
+
 **Finetuning Text-to-Image Diffusion Models for Fairness** \
 [[ICLR 2024](https://arxiv.org/abs/2311.07604)]
 [[Code](https://github.com/sail-sg/finetune-fair-diffusion)]
@@ -120,7 +125,6 @@
 
 **Debiasing Text-to-Image Diffusion Models** \
 [[arxiv](https://arxiv.org/abs/2402.14577)] 
-
 
 
 I will update periodically...
