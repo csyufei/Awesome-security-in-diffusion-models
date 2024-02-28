@@ -118,6 +118,8 @@
 **Fair Text-to-Image Diffusion via Fair Mapping** \
 [[arxiv](https://arxiv.org/abs/2311.17695)] 
 
+**Debiasing Text-to-Image Diffusion Models** \
+[[arxiv](https://arxiv.org/abs/2402.14577)] 
 
 
 
