@@ -93,6 +93,9 @@
 [[ICLR 2024](https://arxiv.org/abs/2308.01508)] 
 [[Code](https://github.com/nyu-dice-lab/circumventing-concept-erasure)]
 
+**MACE: Mass Concept Erasure in Diffusion Models** \
+[[Code](https://github.com/Shilin-LU/MACE)]
+
 ## concept debiasing
 
 **Instructing Text-to-Image Generation Models on Fairness** \
@@ -130,5 +133,7 @@
 **Debiasing Text-to-Image Diffusion Models** \
 [[arxiv](https://arxiv.org/abs/2402.14577)] 
 
+**Balancing Act: Distribution-Guided Debiasing in Diffusion Models** \
+[[CVPR 2024](https://arxiv.org/abs/2402.18206)] 
 
 I will update periodically...
