@@ -1,4 +1,4 @@
-# Awesome concept erasure in T2I models
+# Awesome concept erasure, debiasing and attacks in T2I models
 
 
 - [concept erasure](#concept-erasure)
