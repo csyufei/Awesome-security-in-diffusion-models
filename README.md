@@ -3,6 +3,7 @@
 
 - [concept erasure](#Concept-erasure)
 - [concept debiasing](#Concept-debiasing)
+- [Attack](#Attack on diffusion model (backdoor, adversarial))
 
 ## Concept erasure
 
