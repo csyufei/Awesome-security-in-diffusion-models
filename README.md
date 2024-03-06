@@ -3,7 +3,7 @@
 
 - [concept erasure](#Concept-erasure)
 - [concept debiasing](#Concept-debiasing)
-- [Attack](#Attack-on-diffusion-model-(backdoor,-adversarial))
+- [Attack](#Attack-on-diffusion-model)
 
 ## Concept erasure
 
@@ -144,7 +144,7 @@
 [[openreview](https://openreview.net/forum?id=39cPKijBed)] 
 [[Code](https://github.com/alsdudrla10/TIW-DSM)]
 
-## Attack on diffusion model (backdoor, adversarial)
+## Attack on diffusion model
 
 **Rickrolling the Artist: Injecting Backdoors into Text Encoders for Text-to-Image Synthesis** \
 [[ICCV 2023](https://arxiv.org/abs/2211.02408)] 
