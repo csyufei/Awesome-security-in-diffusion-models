@@ -1,10 +1,10 @@
 # Awesome concept erasure, debiasing and attacks in T2I models
 
 
-- [concept erasure](#concept-erasure)
-- [concept debiasing](#concept-debiasing)
+- [concept erasure](#Concept-erasure)
+- [concept debiasing](#Concept-debiasing)
 
-## concept erasure
+## Concept erasure
 
 **Safe Latent Diffusion: Mitigating Inappropriate Degeneration in Diffusion Models**\
 [[CVPR 2023](https://arxiv.org/abs/2211.05105)] 
@@ -99,7 +99,7 @@
 **Position Paper: Towards Implicit Prompt For Text-To-Image Models** \
 [[arxiv](https://arxiv.org/abs/2403.01598)]
 
-## concept debiasing
+## Concept debiasing
 
 **Instructing Text-to-Image Generation Models on Fairness** \
 [[arxiv](https://arxiv.org/abs/2302.10893)] 
@@ -143,7 +143,7 @@
 [[openreview](https://openreview.net/forum?id=39cPKijBed)] 
 [[Code](https://github.com/alsdudrla10/TIW-DSM)]
 
-## attack on diffusion model (backdoor, adversarial)
+## Attack on diffusion model (backdoor, adversarial)
 
 **Rickrolling the Artist: Injecting Backdoors into Text Encoders for Text-to-Image Synthesis** \
 [[ICCV 2023](https://arxiv.org/abs/2211.02408)] 
