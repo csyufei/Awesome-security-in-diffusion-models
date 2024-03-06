@@ -143,4 +143,11 @@
 [[openreview](https://openreview.net/forum?id=39cPKijBed)] 
 [[Code](https://github.com/alsdudrla10/TIW-DSM)]
 
+## attack on diffusion model (backdoor, adversarial)
+
+**Rickrolling the Artist: Injecting Backdoors into Text Encoders for Text-to-Image Synthesis** \
+[[ICCV 2023](https://arxiv.org/abs/2211.02408)] 
+[[Code](https://github.com/LukasStruppek/Rickrolling-the-Artist)]
+
+
 I will update periodically...
