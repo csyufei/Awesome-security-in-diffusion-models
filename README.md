@@ -96,6 +96,9 @@
 **MACE: Mass Concept Erasure in Diffusion Models** \
 [[Code](https://github.com/Shilin-LU/MACE)]
 
+**Position Paper: Towards Implicit Prompt For Text-To-Image Models** \
+[[arxiv](https://arxiv.org/abs/2403.01598)]
+
 ## concept debiasing
 
 **Instructing Text-to-Image Generation Models on Fairness** \
@@ -135,5 +138,9 @@
 
 **Balancing Act: Distribution-Guided Debiasing in Diffusion Models** \
 [[CVPR 2024](https://arxiv.org/abs/2402.18206)] 
+
+**Position Paper: Towards Implicit Prompt For Text-To-Image Models** \
+[[openreview](https://openreview.net/forum?id=39cPKijBed)] 
+[[Code](https://github.com/alsdudrla10/TIW-DSM)]
 
 I will update periodically...
