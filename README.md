@@ -150,5 +150,8 @@
 [[ICCV 2023](https://arxiv.org/abs/2211.02408)] 
 [[Code](https://github.com/LukasStruppek/Rickrolling-the-Artist)]
 
+**Text-to-Image Diffusion Models can be Easily Backdoored through Multimodal Data Poisoning** \
+[[ACM MM 2023](https://arxiv.org/abs/2305.04175)] 
+[[Code](https://github.com/zhaisf/BadT2I)]
 
 I will update periodically...
