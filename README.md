@@ -98,6 +98,7 @@
 
 [[Code](https://github.com/Shilin-LU/MACE)]
 [[CVPR 2024](https://arxiv.org/pdf/2403.06135.pdf)] 
+
 **Position Paper: Towards Implicit Prompt For Text-To-Image Models** \
 [[arxiv](https://arxiv.org/abs/2403.01598)]
 
@@ -141,8 +142,8 @@
 **Balancing Act: Distribution-Guided Debiasing in Diffusion Models** \
 [[CVPR 2024](https://arxiv.org/abs/2402.18206)] 
 
-**Position Paper: Towards Implicit Prompt For Text-To-Image Models** \
-[[openreview](https://openreview.net/forum?id=39cPKijBed)] 
+**Training Unbiased Diffusion Models From Biased Dataset** \
+[[ICLR 2024](https://openreview.net/forum?id=39cPKijBed)] 
 [[Code](https://github.com/alsdudrla10/TIW-DSM)]
 
 ## Attack on diffusion model
