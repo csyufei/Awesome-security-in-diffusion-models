@@ -95,8 +95,9 @@
 [[Code](https://github.com/nyu-dice-lab/circumventing-concept-erasure)]
 
 **MACE: Mass Concept Erasure in Diffusion Models** \
-[[Code](https://github.com/Shilin-LU/MACE)]
 
+[[Code](https://github.com/Shilin-LU/MACE)]
+[[CVPR 2024](https://arxiv.org/pdf/2403.06135.pdf)] 
 **Position Paper: Towards Implicit Prompt For Text-To-Image Models** \
 [[arxiv](https://arxiv.org/abs/2403.01598)]
 
