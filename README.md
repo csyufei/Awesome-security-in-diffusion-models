@@ -81,7 +81,7 @@
 [[Code](https://github.com/sen-mao/SuppressEOT)]
 
 **Localizing and Editing Knowledge in Text-to-Image Generative Models** \
-[[ICLR 2024](https://arxiv.org/pdf/2310.13730.pdf)] 
+[[ICLR 2024](https://arxiv.org/abs/2310.13730)] 
 
 **UnlearnCanvas: A Stylized Image Dataset to Benchmark Machine Unlearning for Diffusion Models** \
 [[arxiv](https://arxiv.org/abs/2402.11846)] 
