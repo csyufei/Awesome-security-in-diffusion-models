@@ -1,4 +1,4 @@
-# Awesome concept erasure, debiasing and attacks in T2I models
+# Awesome concept editing and attacks in T2I models
 
 
 - [concept erasure](#Concept-erasure)
@@ -104,6 +104,9 @@
 
 **Position Paper: Towards Implicit Prompt For Text-To-Image Models** \
 [[arxiv](https://arxiv.org/abs/2403.01598)]
+
+**Editing Massive Concepts in Text-to-Image Diffusion Models** \
+[[arxiv](https://arxiv.org/abs/2403.13807)]
 
 ## Concept debiasing
 
