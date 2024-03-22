@@ -1,4 +1,4 @@
-# Awesome concept editing and attacks in T2I models
+# Awesome concept editing and attacks & defenses in T2I models
 
 
 - [concept erasure](#Concept-erasure)
