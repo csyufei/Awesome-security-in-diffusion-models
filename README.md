@@ -169,6 +169,7 @@
 
 **The Stronger the Diffusion Model, the Easier the Backdoor: Data Poisoning to Induce Copyright Breaches Without Adjusting Finetuning Pipeline** \
 [[arxiv](https://arxiv.org/abs/2401.04136)]
+[[Code](https://github.com/OPTML-Group/BiBadDiff)]
 
 
 I will update periodically...
