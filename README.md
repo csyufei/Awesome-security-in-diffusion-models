@@ -3,7 +3,7 @@
 
 - [concept erasure](#Concept-erasure)
 - [concept debiasing](#Concept-debiasing)
-- [Attack](#Attack-on-diffusion-model)
+- [Attack and defense](#Attack-and-defense-on-diffusion-model)
 
 ## Concept erasure
 
@@ -154,7 +154,7 @@
 [[ICLR 2024](https://openreview.net/forum?id=39cPKijBed)] 
 [[Code](https://github.com/alsdudrla10/TIW-DSM)]
 
-## Attack on diffusion model
+## Attack and defense on diffusion model
 
 **Rickrolling the Artist: Injecting Backdoors into Text Encoders for Text-to-Image Synthesis** \
 [[ICCV 2023](https://arxiv.org/abs/2211.02408)] 
@@ -171,5 +171,7 @@
 [[arxiv](https://arxiv.org/abs/2401.04136)]
 [[Code](https://github.com/OPTML-Group/BiBadDiff)]
 
+**Salient Conditional Diffusion for Defending Against Backdoor Attacks** \
+[[ICLR 2023](https://arxiv.org/abs/2301.13862)]
 
 I will update periodically...
