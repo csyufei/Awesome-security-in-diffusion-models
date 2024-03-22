@@ -107,6 +107,9 @@
 **Editing Massive Concepts in Text-to-Image Diffusion Models** \
 [[arxiv](https://arxiv.org/abs/2403.13807)]
 
+**Removing Undesirable Concepts in Text-to-Image Generative Models with Learnable Prompts** \
+[[Technical Report](https://arxiv.org/abs/2403.12326)]
+
 ## Concept debiasing
 
 **Instructing Text-to-Image Generation Models on Fairness** \
@@ -161,7 +164,11 @@
 [[ACM MM 2023](https://arxiv.org/abs/2305.04175)] 
 [[Code](https://github.com/zhaisf/BadT2I)]
 
+**From Trojan Horses to Castle Walls: Unveiling Bilateral Backdoor Effects in Diffusion Models** \
+[[arxiv](https://arxiv.org/abs/2311.02373)]
+
 **The Stronger the Diffusion Model, the Easier the Backdoor: Data Poisoning to Induce Copyright Breaches Without Adjusting Finetuning Pipeline** \
-[[arxiv](https://arxiv.org/abs/2401.04136)] 
+[[arxiv](https://arxiv.org/abs/2401.04136)]
+
 
 I will update periodically...
