@@ -166,10 +166,10 @@
 
 **From Trojan Horses to Castle Walls: Unveiling Bilateral Backdoor Effects in Diffusion Models** \
 [[arxiv](https://arxiv.org/abs/2311.02373)]
+[[Code](https://github.com/OPTML-Group/BiBadDiff)]
 
 **The Stronger the Diffusion Model, the Easier the Backdoor: Data Poisoning to Induce Copyright Breaches Without Adjusting Finetuning Pipeline** \
 [[arxiv](https://arxiv.org/abs/2401.04136)]
-[[Code](https://github.com/OPTML-Group/BiBadDiff)]
 
 **Salient Conditional Diffusion for Defending Against Backdoor Attacks** \
 [[ICLR 2023](https://arxiv.org/abs/2301.13862)]
