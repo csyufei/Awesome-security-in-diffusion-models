@@ -110,6 +110,9 @@
 **Removing Undesirable Concepts in Text-to-Image Generative Models with Learnable Prompts** \
 [[Technical Report](https://arxiv.org/abs/2403.12326)]
 
+**On Mechanistic Knowledge Localization in Text-to-Image Generative Models** \
+[[ICML 2024](https://arxiv.org/abs/2405.01008)]
+
 ## Concept debiasing
 
 **Instructing Text-to-Image Generation Models on Fairness** \
