@@ -24,13 +24,12 @@
 [![Star](https://img.shields.io/github/stars/rohitgandikota/erasing.svg?style=social&label=Star)](https://github.com/rohitgandikota/erasing)
 
 **Forget-Me-Not: Learning to Forget in Text-to-Image Diffusion Models** \
-[[arxiv](https://arxiv.org/abs/2303.17591)] 
-[[Code](https://github.com/SHI-Labs/Forget-Me-Not)]
+[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.17591)
+[![Star](https://img.shields.io/github/stars/SHI-Labs/Forget-Me-Not.svg?style=social&label=Star)](https://github.com/SHI-Labs/Forget-Me-Not)
 
 **Inst-Inpaint: Instructing to Remove Objects with Diffusion Models** \
-[[arxiv](https://arxiv.org/abs/2304.03246)] 
-[[Project](http://instinpaint.abyildirim.com/)] 
-[[Code](https://github.com/abyildirim/inst-inpaint)]
+[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.03246)
+[![Star](https://img.shields.io/github/stars/abyildirim/inst-inpaint.svg?style=social&label=Star)](https://github.com/abyildirim/inst-inpaint)
 
 **Selective Amnesia: A Continual Learning Approach to Forgetting in Deep Generative Models** \
 [[arxiv](https://arxiv.org/abs/2305.10120)] 
