@@ -8,8 +8,8 @@
 ## Concept erasure
 
 **Safe Latent Diffusion: Mitigating Inappropriate Degeneration in Diffusion Models**\
-[[CVPR 2023](https://arxiv.org/abs/2211.05105)] 
-[[Code](https://github.com/ml-research/safe-latent-diffusion)]
+[![CVPR 2023](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2211.05105)
+[![Star](https://img.shields.io/github/stars/ml-research/safe-latent-diffusion.svg?style=social&label=Star)](https://github.com/ml-research/safe-latent-diffusion)
 
 **Ablating Concepts in Text-to-Image Diffusion Models** \
 [[ICCV 2023](https://arxiv.org/abs/2303.13516)] 
