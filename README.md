@@ -12,9 +12,8 @@
 [![Star](https://img.shields.io/github/stars/ml-research/safe-latent-diffusion.svg?style=social&label=Star)](https://github.com/ml-research/safe-latent-diffusion)
 
 **Ablating Concepts in Text-to-Image Diffusion Models** \
-[[ICCV 2023](https://arxiv.org/abs/2303.13516)] 
-[[Project](https://www.cs.cmu.edu/~concept-ablation/)] 
-[[Code](https://github.com/nupurkmr9/concept-ablation)]
+[![ICCV 2023](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.13516)
+[![Star](https://img.shields.io/github/stars/nupurkmr9/concept-ablation.svg?style=social&label=Star)](https://github.com/nupurkmr9/concept-ablation)
 
 **Rickrolling the Artist: Injecting Backdoors into Text Encoders for Text-to-Image Synthesis** \
 [[ICCV 2023](https://arxiv.org/abs/2211.02408)] 
