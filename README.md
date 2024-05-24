@@ -45,7 +45,7 @@
 
 **Implicit Concept Removal of Diffusion Models** \
 [![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.05873)
-[![video](./video.svg)](https://www.techbeat.net/talk-info?id=847)
+[![video]()](https://www.techbeat.net/talk-info?id=847)
 
 **To Generate or Not? Safety-Driven Unlearned Diffusion Models Are Still Easy To Generate Unsafe Images ... For Now**\
 [[arxiv](https://arxiv.org/abs/2310.11868)] 
