@@ -32,20 +32,19 @@
 [![Star](https://img.shields.io/github/stars/abyildirim/inst-inpaint.svg?style=social&label=Star)](https://github.com/abyildirim/inst-inpaint)
 
 **Selective Amnesia: A Continual Learning Approach to Forgetting in Deep Generative Models** \
-[[arxiv](https://arxiv.org/abs/2305.10120)] 
-[[Code](https://github.com/clear-nus/selective-amnesia)]
+[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.10120)
+[![Star](https://img.shields.io/github/stars/clear-nus/selective-amnesia.svg?style=social&label=Star)](https://github.com/clear-nus/selective-amnesia)
 
 **Towards Safe Self-Distillation of Internet-Scale Text-to-Image Diffusion Models** \
-[[ICML 2023 workshop](https://arxiv.org/abs/2307.05977v1)] 
-[[Code](https://github.com/nannullna/safe-diffusion)]
+[![ICML 2023 workshop](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.05977v1)
+[![Star](https://img.shields.io/github/stars/clear-nus/selective-amnesia.svg?style=social&label=Star)](https://github.com/nannullna/safe-diffusion)
 
 **Unified Concept Editing in Diffusion Models** \
-[[WACV 2024](https://arxiv.org/abs/2308.14761)] 
-[[Project](https://unified.baulab.info/)] 
-[[Code](https://github.com/rohitgandikota/unified-concept-editing)]
+[![WACV 2024](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.14761)
+[![Star](https://img.shields.io/github/stars/rohitgandikota/unified-concept-editing.svg?style=social&label=Star)](https://github.com/rohitgandikota/unified-concept-editing)
 
 **Implicit Concept Removal of Diffusion Models** \
-[[arxiv](https://arxiv.org/abs/2310.05873)] 
+[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.05873)
 [[video](https://www.techbeat.net/talk-info?id=847)]
 
 **To Generate or Not? Safety-Driven Unlearned Diffusion Models Are Still Easy To Generate Unsafe Images ... For Now**\
