@@ -16,13 +16,12 @@
 [![Star](https://img.shields.io/github/stars/nupurkmr9/concept-ablation.svg?style=social&label=Star)](https://github.com/nupurkmr9/concept-ablation)
 
 **Rickrolling the Artist: Injecting Backdoors into Text Encoders for Text-to-Image Synthesis** \
-[[ICCV 2023](https://arxiv.org/abs/2211.02408)] 
-[[Code](https://github.com/LukasStruppek/Rickrolling-the-Artist)]
+[![ICCV 2023](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2211.02408)
+[![Star](https://img.shields.io/github/stars/LukasStruppek/Rickrolling-the-Artist.svg?style=social&label=Star)](https://github.com/LukasStruppek/Rickrolling-the-Artist)
 
 **Erasing Concepts from Diffusion Models** \
-[[ICCV 2023](https://arxiv.org/abs/2303.07345)] 
-[[Project](https://erasing.baulab.info/)] 
-[[Code](https://github.com/rohitgandikota/erasing)]
+[![ICCV 2023](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.07345)
+[![Star](https://img.shields.io/github/stars/rohitgandikota/erasing.svg?style=social&label=Star)](https://github.com/rohitgandikota/erasing)
 
 **Forget-Me-Not: Learning to Forget in Text-to-Image Diffusion Models** \
 [[arxiv](https://arxiv.org/abs/2303.17591)] 
