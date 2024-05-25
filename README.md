@@ -69,15 +69,15 @@
 [![Star](https://img.shields.io/github/stars/Dlut-lab-zmn/SepCE4MU.svg?style=social&label=Star)](https://github.com/Dlut-lab-zmn/SepCE4MU)
 
 **SalUn Empowering Machine Unlearning via Gradient-based Weight Saliency in Both Image Classification and Generation** \
-[[ICLR 2024](https://arxiv.org/abs/2310.12508)] 
-[[Code](https://github.com/OPTML-Group/Unlearn-Saliency)]
+[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.12508)
+[![Star](https://img.shields.io/github/stars/OPTML-Group/Unlearn-Saliency.svg?style=social&label=Star)](https://github.com/OPTML-Group/Unlearn-Saliency)
 
 **Get What You Want, Not What You Don't: Image Content Suppression for Text-to-Image Diffusion Models** \
-[[ICLR 2024](https://arxiv.org/abs/2402.05375)] 
-[[Code](https://github.com/sen-mao/SuppressEOT)]
+[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.05375)
+[![Star](https://img.shields.io/github/stars/sen-mao/SuppressEOT.svg?style=social&label=Star)](https://github.com/sen-mao/SuppressEOT)
 
 **Localizing and Editing Knowledge in Text-to-Image Generative Models** \
-[[ICLR 2024](https://arxiv.org/abs/2310.13730)] 
+[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.13730)
 
 **UnlearnCanvas: A Stylized Image Dataset to Benchmark Machine Unlearning for Diffusion Models** \
 [[arxiv](https://arxiv.org/abs/2402.11846)] 
