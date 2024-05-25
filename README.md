@@ -62,11 +62,11 @@
 [![Star](https://img.shields.io/github/stars/Con6924/SPM.svg?style=social&label=Star)](https://github.com/Con6924/SPM)
 
 **EraseDiff: Erasing Data Influence in Diffusion Models** \
-[[arxiv](https://arxiv.org/abs/2401.05779)] 
+[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.05779)
 
 **Separable Multi-Concept Erasure from Diffusion Models** \
-[[arxiv](https://arxiv.org/abs/2402.05947)] 
-[[Code](https://github.com/Dlut-lab-zmn/SepCE4MU)]
+[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.05947)
+[![Star](https://img.shields.io/github/stars/Dlut-lab-zmn/SepCE4MU.svg?style=social&label=Star)](https://github.com/Dlut-lab-zmn/SepCE4MU)
 
 **SalUn Empowering Machine Unlearning via Gradient-based Weight Saliency in Both Image Classification and Generation** \
 [[ICLR 2024](https://arxiv.org/abs/2310.12508)] 
