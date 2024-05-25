@@ -48,18 +48,18 @@
 [![video](https://github.com/SZUzhuyufei/Awesome-concept-erasure/blob/main/video.svg)](https://www.techbeat.net/talk-info?id=847)
 
 **To Generate or Not? Safety-Driven Unlearned Diffusion Models Are Still Easy To Generate Unsafe Images ... For Now**\
-[[arxiv](https://arxiv.org/abs/2310.11868)] 
+[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.11868)
+[![Star](https://img.shields.io/github/stars/OPTML-Group/Diffusion-MU-Attack.svg?style=social&label=Star)](https://github.com/OPTML-Group/Diffusion-MU-Attack)
 
 **Receler: Reliable Concept Erasing of Text-to-Image Diffusion Models via Lightweight Erasers** \
-[[arxiv](https://arxiv.org/abs/2311.17717)] 
+[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.17717)
 
 **All but One: Surgical Concept Erasing with Model Preservation in Text-to-Image Diffusion Models** \
-[[arxiv](https://arxiv.org/abs/2312.12807)] 
+[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.12807)
 
 **One-dimensional Adapter to Rule Them All: Concepts, Diffusion Models and Erasing Applications** \
-[[arxiv](https://arxiv.org/abs/2312.16145)] 
-[[Project](https://lyumengyao.github.io/projects/spm)] 
-[[Code](https://github.com/Con6924/SPM)]
+[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.16145)
+[![Star](https://img.shields.io/github/stars/Con6924/SPM.svg?style=social&label=Star)](https://github.com/Con6924/SPM)
 
 **EraseDiff: Erasing Data Influence in Diffusion Models** \
 [[arxiv](https://arxiv.org/abs/2401.05779)] 
