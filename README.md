@@ -109,6 +109,9 @@
 **On Mechanistic Knowledge Localization in Text-to-Image Generative Models** \
 [[ICML 2024](https://arxiv.org/abs/2405.01008)]
 
+**Concept Arithmetics for Circumventing Concept Inhibition in Diffusion Models** \
+[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2404.13706)
+
 ## Concept debiasing
 
 **Instructing Text-to-Image Generation Models on Fairness** \
@@ -168,7 +171,7 @@
 [[Code](https://github.com/OPTML-Group/BiBadDiff)]
 
 **The Stronger the Diffusion Model, the Easier the Backdoor: Data Poisoning to Induce Copyright Breaches Without Adjusting Finetuning Pipeline** \
-[[arxiv](https://arxiv.org/abs/2401.04136)]
+[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.04136)
 
 **Salient Conditional Diffusion for Defending Against Backdoor Attacks** \
 [[ICLR 2023](https://arxiv.org/abs/2301.13862)]
