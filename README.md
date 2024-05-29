@@ -173,9 +173,6 @@
 **The Stronger the Diffusion Model, the Easier the Backdoor: Data Poisoning to Induce Copyright Breaches Without Adjusting Finetuning Pipeline** \
 [![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.04136)
 
-**Salient Conditional Diffusion for Defending Against Backdoor Attacks** \
-[[ICLR 2023](https://arxiv.org/abs/2301.13862)]
-
 **Ufid: A unified framework for input-level backdoor detection on diffusion models** \
 [![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2404.01101)
 [![Star](https://img.shields.io/github/stars/GuanZihan/official_UFID.svg?style=social&label=Star)](https://github.com/GuanZihan/official_UFID)
