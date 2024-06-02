@@ -3,7 +3,8 @@
 
 - [concept erasure](#Concept-erasure)
 - [concept debiasing](#Concept-debiasing)
-- [Attack and defense](#Attack-and-defense-on-diffusion-model)
+- [Attack](#Attack-on-diffusion-model)
+- [Defense](#Defense-on-diffusion-model)
 
 ## Concept erasure
 
@@ -159,7 +160,7 @@
 [[ICLR 2024](https://openreview.net/forum?id=39cPKijBed)] 
 [[Code](https://github.com/alsdudrla10/TIW-DSM)]
 
-## Attack and defense on diffusion model
+## Attack on diffusion model
 
 **Rickrolling the Artist: Injecting Backdoors into Text Encoders for Text-to-Image Synthesis** \
 [![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2211.02408)
@@ -175,6 +176,8 @@
 
 **The Stronger the Diffusion Model, the Easier the Backdoor: Data Poisoning to Induce Copyright Breaches Without Adjusting Finetuning Pipeline** \
 [![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.04136)
+
+## Defense on diffusion model
 
 **Ufid: A unified framework for input-level backdoor detection on diffusion models** \
 [![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2404.01101)
