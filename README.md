@@ -180,11 +180,11 @@
 
 **Text-to-Image Diffusion Models can be Easily Backdoored through Multimodal Data Poisoning** \
 [![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.04175)
-[![Star](https://img.shields.io/github/stars/pittisl/FreezeAsGuard.svg?style=social&label=Star)](https://github.com/zhaisf/BadT2I)
+[![Star](https://img.shields.io/github/stars/zhaisf/BadT2I.svg?style=social&label=Star)](https://github.com/zhaisf/BadT2I)
 
 **From Trojan Horses to Castle Walls: Unveiling Bilateral Backdoor Effects in Diffusion Models** \
 [![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.02373)
-[![Star](https://img.shields.io/github/stars/pittisl/FreezeAsGuard.svg?style=social&label=Star)](https://github.com/OPTML-Group/BiBadDiff)
+[![Star](https://img.shields.io/github/stars/OPTML-Group/BiBadDiff.svg?style=social&label=Star)](https://github.com/OPTML-Group/BiBadDiff)
 
 **The Stronger the Diffusion Model, the Easier the Backdoor: Data Poisoning to Induce Copyright Breaches Without Adjusting Finetuning Pipeline** \
 [![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.04136)
