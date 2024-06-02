@@ -162,19 +162,20 @@
 ## Attack and defense on diffusion model
 
 **Rickrolling the Artist: Injecting Backdoors into Text Encoders for Text-to-Image Synthesis** \
-[[ICCV 2023](https://arxiv.org/abs/2211.02408)] 
-[[Code](https://github.com/LukasStruppek/Rickrolling-the-Artist)]
+[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2211.02408)
+[![Star](https://img.shields.io/github/stars/LukasStruppek/Rickrolling-the-Artist.svg?style=social&label=Star)](https://github.com/LukasStruppek/Rickrolling-the-Artist)
 
 **Text-to-Image Diffusion Models can be Easily Backdoored through Multimodal Data Poisoning** \
-[[ACM MM 2023](https://arxiv.org/abs/2305.04175)] 
-[[Code](https://github.com/zhaisf/BadT2I)]
+[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.04175)
+[![Star](https://img.shields.io/github/stars/pittisl/FreezeAsGuard.svg?style=social&label=Star)](https://github.com/zhaisf/BadT2I)
 
 **From Trojan Horses to Castle Walls: Unveiling Bilateral Backdoor Effects in Diffusion Models** \
-[[arxiv](https://arxiv.org/abs/2311.02373)]
-[[Code](https://github.com/OPTML-Group/BiBadDiff)]
+[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.02373)
+[![Star](https://img.shields.io/github/stars/pittisl/FreezeAsGuard.svg?style=social&label=Star)](https://github.com/OPTML-Group/BiBadDiff)
 
 **The Stronger the Diffusion Model, the Easier the Backdoor: Data Poisoning to Induce Copyright Breaches Without Adjusting Finetuning Pipeline** \
 [![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.04136)
+[![Star](https://img.shields.io/github/stars/haonan3/SilentBadDiffusion.svg?style=social&label=Star)](https://github.com/haonan3/SilentBadDiffusion)
 
 **Ufid: A unified framework for input-level backdoor detection on diffusion models** \
 [![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2404.01101)
