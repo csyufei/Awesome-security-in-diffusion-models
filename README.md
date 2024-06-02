@@ -3,8 +3,8 @@
 
 - [concept erasure](#Concept-erasure)
 - [concept debiasing](#Concept-debiasing)
-- [Attack](#Attack-on-diffusion-model)
-- [Defense](#Defense-on-diffusion-model)
+- [Attack on diffusion model](#Attack-on-diffusion-model)
+- [Defense on diffusion model](#Defense-on-diffusion-model)
 
 ## Concept erasure
 
@@ -162,6 +162,18 @@
 
 ## Attack on diffusion model
 
+**How to Backdoor Diffusion Models?** \
+[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.05400)
+[![Star](https://img.shields.io/github/stars/IBM/BadDiffusion.svg?style=social&label=Star)](https://github.com/IBM/BadDiffusion)
+
+**TrojDiff: Trojan Attacks on Diffusion Models with Diverse Targets** \
+[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.05762)
+[![Star](https://img.shields.io/github/stars/chenweixin107/TrojDiff.svg?style=social&label=Star)](https://github.com/chenweixin107/TrojDiff)
+
+**VillanDiffusion: A Unified Backdoor Attack Framework for Diffusion Models** \
+[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.06874)
+[![Star](https://img.shields.io/github/stars/IBM/villandiffusion.svg?style=social&label=Star)](https://github.com/IBM/villandiffusion)
+
 **Rickrolling the Artist: Injecting Backdoors into Text Encoders for Text-to-Image Synthesis** \
 [![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2211.02408)
 [![Star](https://img.shields.io/github/stars/LukasStruppek/Rickrolling-the-Artist.svg?style=social&label=Star)](https://github.com/LukasStruppek/Rickrolling-the-Artist)
@@ -173,6 +185,7 @@
 **From Trojan Horses to Castle Walls: Unveiling Bilateral Backdoor Effects in Diffusion Models** \
 [![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.02373)
 [![Star](https://img.shields.io/github/stars/pittisl/FreezeAsGuard.svg?style=social&label=Star)](https://github.com/OPTML-Group/BiBadDiff)
+![image](https://github.com/SZUzhuyufei/Awesome-concept-editing/assets/103623103/a2f83080-d606-452e-a353-46b7b6a11274)
 
 **The Stronger the Diffusion Model, the Easier the Backdoor: Data Poisoning to Induce Copyright Breaches Without Adjusting Finetuning Pipeline** \
 [![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.04136)
