@@ -193,6 +193,10 @@
 [![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.10701)
 [![Star](https://img.shields.io/github/stars/Huang-yihao/Personalization-based_backdoor.svg?style=social&label=Star)](https://github.com/Huang-yihao/Personalization-based_backdoor)
 
+**Learnable Invisible Backdoor for Diffusion Models** \
+[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openreview.net/pdf?id=scFfMOOGD8)
+[![Star](https://img.shields.io/github/stars/invisibleTriggerDiffusion/invisible_triggers_for_diffusion.svg?style=social&label=Star)](https://github.com/invisibleTriggerDiffusion/invisible_triggers_for_diffusion)
+
 ## Defense on diffusion model
 
 **Ufid: A unified framework for input-level backdoor detection on diffusion models** \
