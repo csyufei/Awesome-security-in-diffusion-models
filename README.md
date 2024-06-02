@@ -79,37 +79,41 @@
 [![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.13730)
 
 **UnlearnCanvas: A Stylized Image Dataset to Benchmark Machine Unlearning for Diffusion Models** \
-[[arxiv](https://arxiv.org/abs/2402.11846)] 
-[[Code](https://github.com/OPTML-Group/UnlearnCanvas)]
+[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.11846)
+[![Star](https://img.shields.io/github/stars/OPTML-Group/UnlearnCanvas.svg?style=social&label=Star)](https://github.com/OPTML-Group/UnlearnCanvas)
 
 **Self-Discovering Interpretable Diffusion Latent Directions for Responsible Text-to-Image Generation** \
-[[arxiv](https://arxiv.org/abs/2311.17216)]
+[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.17216)
 
 **Universal Prompt Optimizer for Safe Text-to-Image Generation** \
-[[arxiv](https://arxiv.org/abs/2402.10882)] 
+[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.10882)
 
 **Circumventing Concept Erasure Methods For Text-to-Image Generative Models** \
-[[ICLR 2024](https://arxiv.org/abs/2308.01508)] 
-[[Code](https://github.com/nyu-dice-lab/circumventing-concept-erasure)]
+[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.01508)
+[![Star](https://img.shields.io/github/stars/OPTML-Group/UnlearnCanvas.svg?style=social&label=Star)](https://github.com/nyu-dice-lab/circumventing-concept-erasure)
 
 **MACE: Mass Concept Erasure in Diffusion Models** \
-[[CVPR 2024](https://arxiv.org/pdf/2403.06135.pdf)] 
-[[Code](https://github.com/Shilin-LU/MACE)]
+[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.06135)
+[![Star](https://img.shields.io/github/stars/Shilin-LU/MACE.svg?style=social&label=Star)](https://github.com/Shilin-LU/MACE)
 
 **Position Paper: Towards Implicit Prompt For Text-To-Image Models** \
-[[arxiv](https://arxiv.org/abs/2403.01598)]
+[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.01598)
 
 **Editing Massive Concepts in Text-to-Image Diffusion Models** \
-[[arxiv](https://arxiv.org/abs/2403.13807)]
+[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.13807)
 
 **Removing Undesirable Concepts in Text-to-Image Generative Models with Learnable Prompts** \
-[[Technical Report](https://arxiv.org/abs/2403.12326)]
+[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.12326)
 
 **On Mechanistic Knowledge Localization in Text-to-Image Generative Models** \
-[[ICML 2024](https://arxiv.org/abs/2405.01008)]
+[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.01008)
 
 **Concept Arithmetics for Circumventing Concept Inhibition in Diffusion Models** \
 [![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2404.13706)
+
+**ConceptPrune: Concept Editing in Diffusion Models via Skilled Neuron Pruning** \
+[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.19237v1)
+[![Star](https://img.shields.io/github/stars/ruchikachavhan/concept-prune.svg?style=social&label=Star)](https://github.com/ruchikachavhan/concept-prune)
 
 ## Concept debiasing
 
