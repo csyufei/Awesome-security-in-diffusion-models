@@ -189,6 +189,10 @@
 **The Stronger the Diffusion Model, the Easier the Backdoor: Data Poisoning to Induce Copyright Breaches Without Adjusting Finetuning Pipeline** \
 [![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.04136)
 
+**Personalization as a Shortcut for Few-Shot Backdoor Attack against Text-to-Image Diffusion Models** \
+[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.10701)
+[![Star](https://img.shields.io/github/stars/Huang-yihao/Personalization-based_backdoor.svg?style=social&label=Star)](https://github.com/Huang-yihao/Personalization-based_backdoor)
+
 ## Defense on diffusion model
 
 **Ufid: A unified framework for input-level backdoor detection on diffusion models** \
