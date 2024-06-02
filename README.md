@@ -119,46 +119,45 @@
 ## Concept debiasing
 
 **Instructing Text-to-Image Generation Models on Fairness** \
-[[arxiv](https://arxiv.org/abs/2302.10893)] 
-[[Code](https://github.com/ml-research/Fair-Diffusion)]
+[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2302.10893)
+[![Star](https://img.shields.io/github/stars/ml-research/Fair-Diffusion.svg?style=social&label=Star)](https://github.com/ml-research/Fair-Diffusion)
 
 **Debiasing Pretrained Generative Models by Uniformly Sampling Semantic Attributes** \
-[[NIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/file/8d7060b2ee6ff728692398783e3d59d1-Paper-Conference.pdf)] 
+[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://proceedings.neurips.cc/paper_files/paper/2023/file/8d7060b2ee6ff728692398783e3d59d1-Paper-Conference.pdf)
 
 **De-stereotyping Text-to-image Models through Prompt Tuning** \
-[[ICMLW 2023](https://openreview.net/pdf?id=yNyywJln2R)]
+[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openreview.net/pdf?id=yNyywJln2R)
 
 **Stable Bias: Evaluating Societal Representations in Diffusion Models** \
-[[arxiv](https://arxiv.org/abs/2303.11408)]
+[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.11408)
 
 **Debiasing Vision-Language Models via Biased Prompts** \
-[[arxiv](https://arxiv.org/abs/2302.00070)]
-[[Code](https://github.com/chingyaoc/debias_vl)]
+[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2302.00070)
+[![Star](https://img.shields.io/github/stars/chingyaoc/debias_vl.svg?style=social&label=Star)](https://github.com/chingyaoc/debias_vl)
 
 **Discovering and Mitigating Biases in CLIP-based Image Editing** \
-[[WACV 2024](https://openaccess.thecvf.com/content/WACV2024/papers/Tanjim_Discovering_and_Mitigating_Biases_in_CLIP-Based_Image_Editing_WACV_2024_paper.pdf)]
+[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openaccess.thecvf.com/content/WACV2024/papers/Tanjim_Discovering_and_Mitigating_Biases_in_CLIP-Based_Image_Editing_WACV_2024_paper.pdf)
 
 **Unified Concept Editing in Diffusion Models** \
-[[WACV 2024](https://arxiv.org/abs/2308.14761)] 
-[[Project](https://unified.baulab.info/)] 
-[[Code](https://github.com/rohitgandikota/unified-concept-editing)]
+[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.14761)
+[![Star](https://img.shields.io/github/stars/rohitgandikota/unified-concept-editing.svg?style=social&label=Star)](https://github.com/rohitgandikota/unified-concept-editing)
 
 **Finetuning Text-to-Image Diffusion Models for Fairness** \
-[[ICLR 2024](https://arxiv.org/abs/2311.07604)]
-[[Code](https://github.com/sail-sg/finetune-fair-diffusion)]
+[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.07604)
+[![Star](https://img.shields.io/github/stars/sail-sg/finetune-fair-diffusion.svg?style=social&label=Star)](https://github.com/sail-sg/finetune-fair-diffusion)
 
 **Fair Text-to-Image Diffusion via Fair Mapping** \
-[[arxiv](https://arxiv.org/abs/2311.17695)] 
+[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.17695)
 
 **Debiasing Text-to-Image Diffusion Models** \
-[[arxiv](https://arxiv.org/abs/2402.14577)] 
+[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.14577)
 
 **Balancing Act: Distribution-Guided Debiasing in Diffusion Models** \
-[[CVPR 2024](https://arxiv.org/abs/2402.18206)] 
+[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.18206)
 
 **Training Unbiased Diffusion Models From Biased Dataset** \
-[[ICLR 2024](https://openreview.net/forum?id=39cPKijBed)] 
-[[Code](https://github.com/alsdudrla10/TIW-DSM)]
+[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.01189)
+[![Star](https://img.shields.io/github/stars/alsdudrla10/TIW-DSM.svg?style=social&label=Star)](https://github.com/alsdudrla10/TIW-DSM)
 
 ## Attack on diffusion model
 
