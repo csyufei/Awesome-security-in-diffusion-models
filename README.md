@@ -199,6 +199,16 @@
 
 ## Defense on diffusion model
 
+**DisDet: Exploring Detectability of Backdoor Attack on Diffusion Models** \
+[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.02739)
+
+**How to remove backdoors in diffusion models?** \
+[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openreview.net/pdf?id=sz9vHbZPWU)
+
+**Elijah: Eliminating Backdoors Injected in Diffusion Models via Distribution Shift** \
+[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.00050)
+[![Star](https://img.shields.io/github/stars/njuaplusplus/Elijah.svg?style=social&label=Star)](https://github.com/njuaplusplus/Elijah)
+
 **Ufid: A unified framework for input-level backdoor detection on diffusion models** \
 [![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2404.01101)
 [![Star](https://img.shields.io/github/stars/GuanZihan/official_UFID.svg?style=social&label=Star)](https://github.com/GuanZihan/official_UFID)
