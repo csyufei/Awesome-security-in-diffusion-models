@@ -176,5 +176,9 @@
 [![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2404.01101)
 [![Star](https://img.shields.io/github/stars/GuanZihan/official_UFID.svg?style=social&label=Star)](https://github.com/GuanZihan/official_UFID)
 
+**FreezeAsGuard: Mitigating Illegal Adaptation of Diffusion Models via Selective Tensor Freezing** \
+[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.17472v1)
+[![Star](https://img.shields.io/github/stars/pittisl/FreezeAsGuard.svg?style=social&label=Star)](https://github.com/pittisl/FreezeAsGuard)
+
 
 I will update periodically...
