@@ -97,14 +97,14 @@
 [![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.06135)
 [![Star](https://img.shields.io/github/stars/Shilin-LU/MACE.svg?style=social&label=Star)](https://github.com/Shilin-LU/MACE)
 
-**Position Paper: Towards Implicit Prompt For Text-To-Image Models** \
+**Position: Towards Implicit Prompt For Text-To-Image Models** \
 [![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.01598)
 
 **Editing Massive Concepts in Text-to-Image Diffusion Models** \
 [![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.13807)
 
 **Removing Undesirable Concepts in Text-to-Image Generative Models with Learnable Prompts** \
-[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.12326)
+[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.02118)
 
 **On Mechanistic Knowledge Localization in Text-to-Image Generative Models** \
 [![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.01008)
