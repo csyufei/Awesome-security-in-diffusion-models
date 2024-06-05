@@ -116,6 +116,12 @@
 [![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.19237v1)
 [![Star](https://img.shields.io/github/stars/ruchikachavhan/concept-prune.svg?style=social&label=Star)](https://github.com/ruchikachavhan/concept-prune)
 
+**R.A.C.E. : Robust Adversarial Concept Erasure for Secure Text-to-Image Diffusion Model** \
+[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2405.16341)
+
+**Pruning for Robust Concept Erasing in Diffusion Models** \
+[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2405.16534)
+
 ## Concept debiasing
 
 **Instructing Text-to-Image Generation Models on Fairness** \
