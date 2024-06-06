@@ -72,6 +72,10 @@
 [![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.12508)
 [![Star](https://img.shields.io/github/stars/OPTML-Group/Unlearn-Saliency.svg?style=social&label=Star)](https://github.com/OPTML-Group/Unlearn-Saliency)
 
+**Ring-A-Bell! How Reliable are Concept Removal Methods for Diffusion Models?** \
+[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.10012)
+[![Star](https://img.shields.io/github/stars/chiayi-hsu/Ring-A-Bell.svg?style=social&label=Star)](https://github.com/chiayi-hsu/Ring-A-Bell)
+
 **Get What You Want, Not What You Don't: Image Content Suppression for Text-to-Image Diffusion Models** \
 [![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.05375)
 [![Star](https://img.shields.io/github/stars/sen-mao/SuppressEOT.svg?style=social&label=Star)](https://github.com/sen-mao/SuppressEOT)
