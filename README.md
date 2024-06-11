@@ -102,7 +102,7 @@
 [![Star](https://img.shields.io/github/stars/Shilin-LU/MACE.svg?style=social&label=Star)](https://github.com/Shilin-LU/MACE)
 
 **Position: Towards Implicit Prompt For Text-To-Image Models** \
-[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.01598)
+[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.02118)
 
 **Editing Massive Concepts in Text-to-Image Diffusion Models** \
 [![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.13807)
