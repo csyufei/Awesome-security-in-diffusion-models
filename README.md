@@ -291,7 +291,7 @@
 [![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.16285)
 
 
-## Diffusion-model-as-a-tool-for-defense
+## Diffusion model as a tool for defense
 
 I will update periodically...
 
