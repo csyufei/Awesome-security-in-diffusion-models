@@ -1,11 +1,11 @@
-# Awesome security in diffusion models
+# Awesome Security in Diffusion Models
 
 
 - [concept erasure](#Concept-erasure)
 - [concept debiasing](#Concept-debiasing)
-- [Attack on diffusion model](#Attack-on-diffusion-model)
-- [Defense on diffusion model](#Defense-on-diffusion-model)
-- [Copyright on diffusion model](#Copyright-on-diffusion-model)
+- [Attack](#Attack-on-diffusion-model)
+- [Defense](#Defense-on-diffusion-model)
+- [Copyright](#Copyright-on-diffusion-model)
 
 ## Concept erasure
 
