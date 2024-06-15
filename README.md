@@ -207,6 +207,10 @@
 [![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.10701)
 [![Star](https://img.shields.io/github/stars/Huang-yihao/Personalization-based_backdoor.svg?style=social&label=Star)](https://github.com/Huang-yihao/Personalization-based_backdoor)
 
+**Nightshade: Prompt-Specific Poisoning Attacks on Text-to-Image Generative Models** \
+[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.13828)
+[![Star](https://img.shields.io/github/stars/Shawn-Shan/nightshade-release.svg?style=social&label=Star)](https://github.com/Shawn-Shan/nightshade-release)
+
 **Invisible Backdoor Attacks on Diffusion Models** \
 [![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.00816)
 [![Star](https://img.shields.io/github/stars/invisibleTriggerDiffusion/invisible_triggers_for_diffusion.svg?style=social&label=Star)](https://github.com/invisibleTriggerDiffusion/invisible_triggers_for_diffusion)
