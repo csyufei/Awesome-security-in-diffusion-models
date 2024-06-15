@@ -283,4 +283,4 @@ I will update periodically...
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=SZUzhuyufei/Awesome-concept-editing&type=Date)](https://star-history.com/#SZUzhuyufei/Awesome-concept-editing&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=SZUzhuyufei/Awesome-security-in-diffusion-models&type=Date)](https://star-history.com/#SZUzhuyufei/Awesome-security-in-diffusion-models&Date)
