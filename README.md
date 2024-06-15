@@ -245,6 +245,18 @@
 [![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.10137)
 [![Star](https://img.shields.io/github/stars/yunqing-me/WatermarkDM.svg?style=social&label=Star)](https://github.com/yunqing-me/WatermarkDM)
 
+**The Stable Signature: Rooting Watermarks in Latent Diffusion Models** \
+[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.15435)
+[![Star](https://img.shields.io/github/stars/facebookresearch/stable_signature.svg?style=social&label=Star)](https://github.com/facebookresearch/stable_signature)
+
+**Tree-Ring Watermarks: Fingerprints for Diffusion Images that are Invisible and Robust** \
+[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.20030)
+[![Star](https://img.shields.io/github/stars/YuxinWenRick/tree-ring-watermark.svg?style=social&label=Star)](https://github.com/YuxinWenRick/tree-ring-watermark)
+
+**“RingID: Rethinking Tree-Ring Watermarking for Enhanced Multi-Key Identification** \
+[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.14055)
+[![Star](https://img.shields.io/github/stars/showlab/RingID.svg?style=social&label=Star)](https://github.com/showlab/RingID)
+
 **“Lazy” Layers to Make Fine-Tuned Diffusion Models More Traceable** \
 [![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.00466)
 
