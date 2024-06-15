@@ -202,9 +202,13 @@
 [![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.10701)
 [![Star](https://img.shields.io/github/stars/Huang-yihao/Personalization-based_backdoor.svg?style=social&label=Star)](https://github.com/Huang-yihao/Personalization-based_backdoor)
 
-**Learnable Invisible Backdoor for Diffusion Models** \
-[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openreview.net/pdf?id=scFfMOOGD8)
+**Invisible Backdoor Attacks on Diffusion Models** \
+[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.00816)
 [![Star](https://img.shields.io/github/stars/invisibleTriggerDiffusion/invisible_triggers_for_diffusion.svg?style=social&label=Star)](https://github.com/invisibleTriggerDiffusion/invisible_triggers_for_diffusion)
+
+**A Recipe for Watermarking Diffusion Models** \
+[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.10137)
+[![Star](https://img.shields.io/github/stars/yunqing-me/WatermarkDM.svg?style=social&label=Star)](https://github.com/yunqing-me/WatermarkDM)
 
 ## Defense on diffusion model
 
@@ -225,6 +229,10 @@
 **FreezeAsGuard: Mitigating Illegal Adaptation of Diffusion Models via Selective Tensor Freezing** \
 [![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.17472v1)
 [![Star](https://img.shields.io/github/stars/pittisl/FreezeAsGuard.svg?style=social&label=Star)](https://github.com/pittisl/FreezeAsGuard)
+
+**TERD: A Unified Framework for Safeguarding Diffusion Models Against Backdoors** \
+[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openreview.net/pdf?id=lpHjmPvxW1)
+
 
 
 I will update periodically...
