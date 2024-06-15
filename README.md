@@ -3,8 +3,9 @@
 
 - [concept erasure](#Concept-erasure)
 - [concept debiasing](#Concept-debiasing)
-- [Attack](#Attack-on-diffusion-model)
-- [Defense](#Defense-on-diffusion-model)
+- [Backdoor attack](#Backdoor-attack-on-diffusion-model)
+- [Backdoor defense](#Backdoor-defense-on-diffusion-model)
+- [Adversarial Attack](#Adversarial-attack-on-diffusion-model)
 - [Copyright](#Copyright-on-diffusion-model)
 
 ## Concept erasure
@@ -170,7 +171,7 @@
 [![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.01189)
 [![Star](https://img.shields.io/github/stars/alsdudrla10/TIW-DSM.svg?style=social&label=Star)](https://github.com/alsdudrla10/TIW-DSM)
 
-## Attack on diffusion model
+## Backdoor attack on diffusion model
 
 **How to Backdoor Diffusion Models?** \
 [![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.05400)
@@ -220,7 +221,7 @@
 [![Star](https://img.shields.io/github/stars/yunqing-me/WatermarkDM.svg?style=social&label=Star)](https://github.com/yunqing-me/WatermarkDM)
 
 
-## Defense on diffusion model
+## Backdoor defense on diffusion model
 
 **DisDet: Exploring Detectability of Backdoor Attack on Diffusion Models** \
 [![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.02739)
@@ -242,6 +243,9 @@
 
 **TERD: A Unified Framework for Safeguarding Diffusion Models Against Backdoors** \
 [![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openreview.net/pdf?id=lpHjmPvxW1)
+
+
+## Adversarial attack on diffusion model
 
 ## Copyright on diffusion model
 
@@ -267,6 +271,9 @@
 
 **“Lazy” Layers to Make Fine-Tuned Diffusion Models More Traceable** \
 [![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.00466)
+
+**ModelLock: Locking Your Model With a Spell** \
+[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.16285)
 
 
 I will update periodically...
