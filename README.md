@@ -8,6 +8,7 @@
 - [Adversarial attack](#Adversarial-attack-on-diffusion-model)
 - [Inference attack](#Inference-attack-on-diffusion-model)
 - [Copyright](#Copyright-on-diffusion-model)
+- [A tool for defense](#Diffusion-model-as-a-tool-for-defense)
 
 ## Concept erasure
 
@@ -289,6 +290,8 @@
 **ModelLock: Locking Your Model With a Spell** \
 [![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.16285)
 
+
+## Diffusion-model-as-a-tool-for-defense
 
 I will update periodically...
 
