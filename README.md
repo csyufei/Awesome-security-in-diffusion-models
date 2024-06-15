@@ -290,6 +290,13 @@
 **ModelLock: Locking Your Model With a Spell** \
 [![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.16285)
 
+**Disguised Copyright Infringement of Latent Diffusion Models** \
+[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.06737)
+[![Star](https://img.shields.io/github/stars/d1shs0ap/copyright-infringement-attacks.svg?style=social&label=Star)](https://github.com/d1shs0ap/copyright-infringement-attacks)
+
+**WMAdapter: Adding WaterMark Control to Latent Diffusion Models** \
+[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.08337v1)
+
 
 ## Diffusion model as a tool for defense
 
