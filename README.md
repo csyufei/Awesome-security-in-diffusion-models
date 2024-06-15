@@ -261,6 +261,10 @@
 [![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.14055)
 [![Star](https://img.shields.io/github/stars/showlab/RingID.svg?style=social&label=Star)](https://github.com/showlab/RingID)
 
+**Gaussian Shading: Provable Performance-Lossless Image Watermarking for Diffusion Models** \
+[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.04956)
+[![Star](https://img.shields.io/github/stars/lthero-big/A-watermark-for-Diffusion-Models.svg?style=social&label=Star)](https://github.com/lthero-big/A-watermark-for-Diffusion-Models)
+
 **“Lazy” Layers to Make Fine-Tuned Diffusion Models More Traceable** \
 [![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.00466)
 
