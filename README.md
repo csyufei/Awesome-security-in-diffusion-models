@@ -273,6 +273,10 @@
 [![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.20030)
 [![Star](https://img.shields.io/github/stars/YuxinWenRick/tree-ring-watermark.svg?style=social&label=Star)](https://github.com/YuxinWenRick/tree-ring-watermark)
 
+**DIAGNOSIS: Detecting Unauthorized Data Usages in Text-to-image Diffusion Models** \
+[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.03108)
+[![Star](https://img.shields.io/github/stars/ZhentingWang/DIAGNOSIS.svg?style=social&label=Star)](https://github.com/ZhentingWang/DIAGNOSIS)
+
 **“RingID: Rethinking Tree-Ring Watermarking for Enhanced Multi-Key Identification** \
 [![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.14055)
 [![Star](https://img.shields.io/github/stars/showlab/RingID.svg?style=social&label=Star)](https://github.com/showlab/RingID)
