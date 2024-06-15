@@ -1,4 +1,4 @@
-# Awesome concept editing and attacks & defenses in T2I models
+# Awesome security in diffusion models
 
 
 - [concept erasure](#Concept-erasure)
@@ -262,3 +262,7 @@
 
 
 I will update periodically...
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=SZUzhuyufei/Awesome-concept-editing&type=Date)](https://star-history.com/#SZUzhuyufei/Awesome-concept-editing&Date)
