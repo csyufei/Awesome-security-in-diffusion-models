@@ -304,6 +304,15 @@
 
 ## Diffusion model as a tool for defense
 
+**Black-box Backdoor Defense via Zero-shot Image Purification** \
+[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.12175)
+[![Star](https://img.shields.io/github/stars/sycny/ZIP.svg?style=social&label=Star)](https://github.com/sycny/ZIP)
+
+**DataElixir: Purifying Poisoned Dataset to Mitigate Backdoor Attacks via Diffusion Models** \
+[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.11057)
+[![Star](https://img.shields.io/github/stars/Manu21JC/DataElixir.svg?style=social&label=Star)](https://github.com/Manu21JC/DataElixir)
+
+
 I will update periodically...
 
 ## Star History
