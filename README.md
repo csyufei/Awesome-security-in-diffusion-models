@@ -1,4 +1,4 @@
-# Awesome Security in Diffusion Models
+# Awesome security in diffusion models
 
 
 - [concept erasure](#Concept-erasure)
