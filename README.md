@@ -172,6 +172,14 @@
 [![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.01189)
 [![Star](https://img.shields.io/github/stars/alsdudrla10/TIW-DSM.svg?style=social&label=Star)](https://github.com/alsdudrla10/TIW-DSM)
 
+**Severity Controlled Text-to-Image Generative Model Bias Manipulation** \
+[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.02530)
+
+**OpenBias: Open-set Bias Detection in Text-to-Image Generative Models** \
+[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.07990)
+[![Star](https://img.shields.io/github/stars/Picsart-AI-Research/OpenBias.svg?style=social&label=Star)](https://github.com/Picsart-AI-Research/OpenBias)
+
+
 ## Backdoor attack on diffusion model
 
 **How to Backdoor Diffusion Models?** \
