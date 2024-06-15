@@ -192,6 +192,10 @@
 [![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.04175)
 [![Star](https://img.shields.io/github/stars/zhaisf/BadT2I.svg?style=social&label=Star)](https://github.com/zhaisf/BadT2I)
 
+**BAGM: A Backdoor Attack for Manipulating Text-to-Image Generative Models** \
+[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.16489)
+[![Star](https://img.shields.io/github/stars/JJ-Vice/BAGM.svg?style=social&label=Star)](https://github.com/JJ-Vice/BAGM)
+
 **From Trojan Horses to Castle Walls: Unveiling Bilateral Backdoor Effects in Diffusion Models** \
 [![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.02373)
 [![Star](https://img.shields.io/github/stars/OPTML-Group/BiBadDiff.svg?style=social&label=Star)](https://github.com/OPTML-Group/BiBadDiff)
@@ -210,6 +214,7 @@
 **A Recipe for Watermarking Diffusion Models** \
 [![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.10137)
 [![Star](https://img.shields.io/github/stars/yunqing-me/WatermarkDM.svg?style=social&label=Star)](https://github.com/yunqing-me/WatermarkDM)
+
 
 ## Defense on diffusion model
 
