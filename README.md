@@ -5,7 +5,8 @@
 - [concept debiasing](#Concept-debiasing)
 - [Backdoor attack](#Backdoor-attack-on-diffusion-model)
 - [Backdoor defense](#Backdoor-defense-on-diffusion-model)
-- [Adversarial Attack](#Adversarial-attack-on-diffusion-model)
+- [Adversarial attack](#Adversarial-attack-on-diffusion-model)
+- [Inference attack](#Inference-attack-on-diffusion-model)
 - [Copyright](#Copyright-on-diffusion-model)
 
 ## Concept erasure
@@ -246,6 +247,8 @@
 
 
 ## Adversarial attack on diffusion model
+
+## Inference attack on diffusion model
 
 ## Copyright on diffusion model
 
