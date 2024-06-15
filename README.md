@@ -275,6 +275,9 @@
 **“Lazy” Layers to Make Fine-Tuned Diffusion Models More Traceable** \
 [![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.00466)
 
+**A Training-Free Plug-and-Play Watermark Framework for Stable Diffusion** \
+[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.05607)
+
 **ModelLock: Locking Your Model With a Spell** \
 [![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.16285)
 
