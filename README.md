@@ -5,6 +5,7 @@
 - [concept debiasing](#Concept-debiasing)
 - [Attack on diffusion model](#Attack-on-diffusion-model)
 - [Defense on diffusion model](#Defense-on-diffusion-model)
+- [Copyright on diffusion model](#Copyright-on-diffusion-model)
 
 ## Concept erasure
 
@@ -232,6 +233,12 @@
 
 **TERD: A Unified Framework for Safeguarding Diffusion Models Against Backdoors** \
 [![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openreview.net/pdf?id=lpHjmPvxW1)
+
+## Copyright on diffusion model
+
+**A Recipe for Watermarking Diffusion Models** \
+[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.10137)
+[![Star](https://img.shields.io/github/stars/yunqing-me/WatermarkDM.svg?style=social&label=Star)](https://github.com/yunqing-me/WatermarkDM)
 
 
 
