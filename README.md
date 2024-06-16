@@ -130,6 +130,14 @@
 **Pruning for Robust Concept Erasing in Diffusion Models** \
 [![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2405.16534)
 
+**Erasing Concepts from Text-to-Image Diffusion Models with Few-shot Unlearning** \
+[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.07288)
+[![Star](https://img.shields.io/github/stars/fmp453/few-shot-erasing.svg?style=social&label=Star)](https://github.com/fmp453/few-shot-erasing)
+
+**Text Guided Image Editing with Automatic Concept Locating and Forgetting** \
+[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.19708)
+
+
 ## Concept debiasing
 
 **Instructing Text-to-Image Generation Models on Fairness** \
