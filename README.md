@@ -194,6 +194,9 @@
 **SCoFT: Self-Contrastive Fine-Tuning for Equitable Image Generation** \
 [![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.08053)
 
+**FairRAG: Fair Human Generation via Fair Retrieval Augmentation** \
+[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.19964)
+
 
 ## Backdoor attack on diffusion model
 
