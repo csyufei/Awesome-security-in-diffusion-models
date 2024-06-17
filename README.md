@@ -137,6 +137,8 @@
 **Text Guided Image Editing with Automatic Concept Locating and Forgetting** \
 [![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.19708)
 
+**Robust Concept Erasure Using Task Vectors** \
+[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.03631)
 
 ## Concept debiasing
 
@@ -187,6 +189,9 @@
 **OpenBias: Open-set Bias Detection in Text-to-Image Generative Models** \
 [![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.07990)
 [![Star](https://img.shields.io/github/stars/Picsart-AI-Research/OpenBias.svg?style=social&label=Star)](https://github.com/Picsart-AI-Research/OpenBias)
+
+**SCoFT: Self-Contrastive Fine-Tuning for Equitable Image Generation** \
+[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.08053)
 
 
 ## Backdoor attack on diffusion model
