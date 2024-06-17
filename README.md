@@ -91,9 +91,6 @@
 [![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.11846)
 [![Star](https://img.shields.io/github/stars/OPTML-Group/UnlearnCanvas.svg?style=social&label=Star)](https://github.com/OPTML-Group/UnlearnCanvas)
 
-**Self-Discovering Interpretable Diffusion Latent Directions for Responsible Text-to-Image Generation** \
-[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.17216)
-
 **Universal Prompt Optimizer for Safe Text-to-Image Generation** \
 [![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.10882)
 
@@ -172,6 +169,10 @@
 
 **Fair Text-to-Image Diffusion via Fair Mapping** \
 [![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.17695)
+
+**Self-Discovering Interpretable Diffusion Latent Directions for Responsible Text-to-Image Generation** \
+[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.17216)
+[![Star](https://img.shields.io/github/stars/hangligit/InterpretDiffusion.svg?style=social&label=Star)](https://github.com/hangligit/InterpretDiffusion)
 
 **Debiasing Text-to-Image Diffusion Models** \
 [![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.14577)
