@@ -137,6 +137,9 @@
 **Robust Concept Erasure Using Task Vectors** \
 [![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.03631)
 
+**Unlearning Concepts in Diffusion Model via Concept Domain Correction and Concept Preserving Gradient** \
+[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.15304)
+
 ## Concept debiasing
 
 **Instructing Text-to-Image Generation Models on Fairness** \
