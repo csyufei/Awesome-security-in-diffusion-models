@@ -140,6 +140,15 @@
 **Unlearning Concepts in Diffusion Model via Concept Domain Correction and Concept Preserving Gradient** \
 [![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.15304)
 
+**Data Attribution for Text-to-Image Models by Unlearning Synthesized Images** \
+[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2406.09408v1)
+[![Star](https://img.shields.io/github/stars/peterwang512/AttributeByUnlearning.svg?style=social&label=Star)](https://github.com/peterwang512/AttributeByUnlearning)
+
+**CLIPAway: Harmonizing Focused Embeddings for Removing Objects via Diffusion Models** \
+[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2406.09368v1)
+[![Star](https://img.shields.io/github/stars/YigitEkin/CLIPAway.svg?style=social&label=Star)](https://github.com/YigitEkin/CLIPAway)
+
+
 ## Concept debiasing
 
 **Instructing Text-to-Image Generation Models on Fairness** \
@@ -199,6 +208,9 @@
 
 **FairRAG: Fair Human Generation via Fair Retrieval Augmentation** \
 [![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.19964)
+
+**EquiPrompt: Debiasing Diffusion Models via Iterative Bootstrapping in Chain of Thoughts** \
+[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2406.09070v1)
 
 
 ## Backdoor attack on diffusion model
@@ -324,6 +336,10 @@
 **AquaLoRA: Toward White-box Protection for Customized Stable Diffusion Models via Watermark LoRA** \
 [![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.11135)
 [![Star](https://img.shields.io/github/stars/Georgefwt/AquaLoRA.svg?style=social&label=Star)](https://github.com/Georgefwt/AquaLoRA)
+
+**Steganalysis on Digital Watermarking: Is Your Defense Truly Impervious?** \
+[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.11135)
+[![Star](https://img.shields.io/github/stars/Georgefwt/AquaLoRA.svg?style=social&label=Star)](http://arxiv.org/abs/2406.09026v1)
 
 
 ## Diffusion model as a tool for defense
