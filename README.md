@@ -321,6 +321,10 @@
 **WMAdapter: Adding WaterMark Control to Latent Diffusion Models** \
 [![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.08337v1)
 
+**AquaLoRA: Toward White-box Protection for Customized Stable Diffusion Models via Watermark LoRA** \
+[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.11135)
+[![Star](https://img.shields.io/github/stars/Georgefwt/AquaLoRA.svg?style=social&label=Star)](https://github.com/Georgefwt/AquaLoRA)
+
 
 ## Diffusion model as a tool for defense
 
