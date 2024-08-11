@@ -148,6 +148,10 @@
 [![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2406.09368v1)
 [![Star](https://img.shields.io/github/stars/YigitEkin/CLIPAway.svg?style=social&label=Star)](https://github.com/YigitEkin/CLIPAway)
 
+**Reliable and Efficient Concept Erasure of Text-to-Image Diffusion Models** \
+[![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.12383)
+[![Star](https://img.shields.io/github/stars/CharlesGong12/RECE.svg?style=social&label=Star)](https://github.com/CharlesGong12/RECE)
+
 
 ## Concept debiasing
 
