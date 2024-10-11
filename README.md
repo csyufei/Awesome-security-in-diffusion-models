@@ -10,7 +10,7 @@
 - [Copyright](#Copyright-on-diffusion-model)
 - [A tool for defense](#Diffusion-model-as-a-tool-for-defense)
 
-## Concept erasure
+## Survey
 
 **Attacks and Defenses for Generative Diffusion Models: A Comprehensive Survey**\
 [![CVPR 2023](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2408.03400)
