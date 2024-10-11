@@ -1,14 +1,19 @@
 # Awesome security in diffusion models
 
-
-- [concept erasure](#Concept-erasure)
-- [concept debiasing](#Concept-debiasing)
+- [Survey](#Survey)
+- [Concept erasure](#Concept-erasure)
+- [Concept debiasing](#Concept-debiasing)
 - [Backdoor attack](#Backdoor-attack-on-diffusion-model)
 - [Backdoor defense](#Backdoor-defense-on-diffusion-model)
 - [Adversarial attack](#Adversarial-attack-on-diffusion-model)
 - [Inference attack](#Inference-attack-on-diffusion-model)
 - [Copyright](#Copyright-on-diffusion-model)
 - [A tool for defense](#Diffusion-model-as-a-tool-for-defense)
+
+## Concept erasure
+
+**Attacks and Defenses for Generative Diffusion Models: A Comprehensive Survey**\
+[![CVPR 2023](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2408.03400)
 
 ## Concept erasure
 
