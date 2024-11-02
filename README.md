@@ -294,6 +294,7 @@
 
 **TERD: A Unified Framework for Safeguarding Diffusion Models Against Backdoors** \
 [![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openreview.net/pdf?id=lpHjmPvxW1)
+[![Star](https://img.shields.io/github/stars/PKU-ML/TERD.svg?style=social&label=Star)](https://github.com/PKU-ML/TERD)
 
 **T2IShield: Defending Against Backdoors on Text-to-Image Diffusion Models** \
 [![arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.04215)
